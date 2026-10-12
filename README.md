@@ -6,7 +6,7 @@
 I build modern web applications and explore AI-powered solutions, focusing on clean code, performance, usability, and practical problem-solving.
 
 ```text
- _                 _                         _
+ _                 _                        _
 (_) __ _ _ __ ___ | | _____ _ __ ___   __ _| |
 | |/ _` | '_ ` _ \| |/ / _ \ '_ ` _ \ / _` | |
 | | (_| | | | | | |   <  __/ | | | | | (_| | |
