@@ -14,7 +14,7 @@ I build modern web applications and explore AI-powered solutions, focusing on cl
 ```
 
 <p align="center">
-  <img src="./assets/profile.jpg" width="150" alt="iamkemal profile photo" />
+  <img src="./assets/profile.jpeg" width="150" alt="iamkemal profile photo" />
 </p>
 
 <p align="center">
