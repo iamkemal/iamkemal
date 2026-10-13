@@ -41,7 +41,7 @@ I build modern web applications and explore AI-powered solutions, focusing on cl
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,react" alt="Laravel and React" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap" alt="Laravel, React, Bootstrap" />
 </p>
 
 ### Database & Development Tools
