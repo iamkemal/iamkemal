@@ -36,7 +36,7 @@ I build modern web applications and explore AI-powered solutions, focusing on cl
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,js,html,css" alt="Python, PHP, JavaScript, HTML and CSS" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,php,js,html,css" alt="Python, C, C++, C#, PHP, JavaScript, HTML and CSS" />
 </p>
 
 ### Frameworks & Libraries
