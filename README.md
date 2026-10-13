@@ -1,10 +1,4 @@
 
-# 👋 Hi, I'm iamkemal
-
-### Computer Scientist · AI Engineer
-
-I build modern web applications and explore AI-powered solutions, focusing on clean code, performance, usability, and practical problem-solving.
-
 ```text
  _                 _                        _
 (_) __ _ _ __ ___ | | _____ _ __ ___   __ _| |
@@ -12,6 +6,10 @@ I build modern web applications and explore AI-powered solutions, focusing on cl
 | | (_| | | | | | |   <  __/ | | | | | (_| | |
 |_|\__,_|_| |_| |_|_|\_\___|_| |_| |_|\__,_|_|
 ```
+
+### Computer Scientist · AI Engineer
+
+I build modern web applications and explore AI-powered solutions, focusing on clean code, performance, usability, and practical problem-solving.
 
 <p align="center">
   <img src="./assets/profile.jpeg" width="150" alt="iamkemal profile photo" />
