@@ -46,7 +46,7 @@ I build modern web applications and explore AI-powered solutions, focusing on cl
 
 ### Database & Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,visualstudio,vscode" alt="MySQL, Git, GitHub, Visual Studio and VS Code" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlserver,git,github,visualstudio,vscode" alt="MySQL, SQL Server, Git, GitHub, Visual Studio and VS Code" />
 </p>
 
 ---
