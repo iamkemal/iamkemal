@@ -11,9 +11,6 @@
 
 I build modern web applications and explore AI-powered solutions, focusing on clean code, performance, usability, and practical problem-solving.
 
-<p align="center">
-  <img src="./assets/profile.jpeg" width="150" alt="iamkemal profile photo" />
-</p>
 
 <p align="center">
   <a href="https://github.com/iamkemal">
