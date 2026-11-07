@@ -72,14 +72,14 @@ A web-based management system designed to organize stationery inventory, sales, 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=iamkemal&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=iamkemal&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true"
     alt="GitHub statistics for iamkemal"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkemal&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=iamkemal&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true"
     alt="Most-used programming languages on GitHub"
   />
 </p>
