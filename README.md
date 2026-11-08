@@ -29,7 +29,7 @@ I build modern web applications and explore AI-powered solutions, focusing on cl
 - 🛠️ Focused on building practical, user-friendly software
 - 📚 Always learning and improving my engineering skills
 
-## `> tech --stack`
+## `> tech stack`
 
 ### Languages
 <p>
